@@ -9,3 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+[![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santidossantos)](https://github.com/santidossantos/github-readme-stats)
