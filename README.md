@@ -1,6 +1,6 @@
 ### Hola 👋
 
-- 🔭 Me apasiona todo lo relacionado con Apple
+<!-- - 🔭  -->
 - 🌱 Estudio Licenciatura en Sistemas en la UNLP
 - 📫 Me podés contactar en santiidossantos@icloud.com
 <!-- - 👯 I’m looking to collaborate on ...
