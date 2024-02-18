@@ -1,23 +1,22 @@
-### Hola 👋 
+### Hola 👋🏻 
 ![](https://komarev.com/ghpvc/?username=santidossantos&color=blue)
 
 
 <!-- - 🔭  -->
 - 🌱 Estudio Licenciatura en Sistemas en la UNLP
 - 📫 Me podés contactar en santiiagodossantos@icloud.com
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🎓 Analista Programador Universitario
 
 ### 💻 &nbsp; Technologies
 
-<p align="center">
-
-![LoopBack Badge](https://img.shields.io/badge/LoopBack-3F5DFF?logo=loopback&logoColor=fff&style=for-the-badge) ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge)
-  
-</p>
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/LoopBack-3F5DFF?logo=loopback&logoColor=fff&style=for-the-badge" alt="LoopBack Badge">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" alt="Spring Badge">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge">
+    <img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge" alt="Angular Badge">
+</div>
 
 
 ### 📊 &nbsp;GitHub Analytics
