@@ -9,7 +9,7 @@
 
 ### 💻 &nbsp; Technologies
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <img src="https://img.shields.io/badge/LoopBack-3F5DFF?logo=loopback&logoColor=fff&style=for-the-badge" alt="LoopBack Badge">
     <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" alt="Spring Badge">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge">
     <img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge" alt="Angular Badge">
 </div>
+
 
 
 ### 📊 &nbsp;GitHub Analytics
