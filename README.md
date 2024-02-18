@@ -9,7 +9,7 @@
 
 ### 💻 &nbsp; Technologies
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
     <img src="https://img.shields.io/badge/LoopBack-3F5DFF?logo=loopback&logoColor=fff&style=for-the-badge" alt="LoopBack Badge">
     <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" alt="Spring Badge">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
