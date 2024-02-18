@@ -3,9 +3,9 @@
 
 
 <!-- - 🔭  -->
+- 🎓 Analista Programador Universitario
 - 🌱 Estudio Licenciatura en Sistemas en la UNLP
 - 📫 Me podés contactar en santiiagodossantos@icloud.com
-- 🎓 Analista Programador Universitario
 
 ### 💻 &nbsp; Technologies
 
