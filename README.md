@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santidossantos&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santidossantos&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santidossantos&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=santidossantos&color=blue)
